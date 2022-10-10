@@ -5,7 +5,7 @@
 I'm a front-end student who is passionate about writing code, solving problems, automating stuff, and building software.
 
 - 🔭 I’m currently a front-end student at Microverse.
-- 📚 I’m currently learning  front-enf web development using JS, React and Ruby.
+- 📚 I’m currently learning  front-end web development using JS, React and Ruby.
 - 👯 I’m looking for a software development internship. 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/abreham1222) [Gmail](abreham1222@gmail.com)
 
